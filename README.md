@@ -26,6 +26,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitkuma764/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankitkuma764/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankitkuma764/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -45,6 +46,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ankitkuma764/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
 ## Ternary Search
 |  |
 | ------- |
