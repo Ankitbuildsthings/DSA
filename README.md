@@ -28,6 +28,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankitkuma764/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/Ankitkuma764/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0069-sqrtx](https://github.com/Ankitkuma764/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankitkuma764/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/Ankitkuma764/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
