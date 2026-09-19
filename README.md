@@ -9,6 +9,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankitkuma764/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Ankitkuma764/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ankitkuma764/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ankitkuma764/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ankitkuma764/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankitkuma764/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Ankitkuma764/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
@@ -43,6 +45,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0069-sqrtx](https://github.com/Ankitkuma764/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ankitkuma764/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankitkuma764/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Ankitkuma764/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
@@ -64,6 +67,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ankitkuma764/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Ternary Search
 |  |
 | ------- |
@@ -82,4 +86,5 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ankitkuma764/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ankitkuma764/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
