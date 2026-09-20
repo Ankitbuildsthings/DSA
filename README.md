@@ -23,6 +23,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Ankitkuma764/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -66,6 +67,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankitkuma764/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Ankitkuma764/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -83,6 +85,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ankitkuma764/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankitkuma764/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sorting
 |  |
