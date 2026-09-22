@@ -40,6 +40,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitkuma764/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankitkuma764/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Ankitkuma764/DSA/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Ankitkuma764/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankitkuma764/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
@@ -54,6 +55,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitkuma764/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankitkuma764/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Ankitkuma764/DSA/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Ankitkuma764/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankitkuma764/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
