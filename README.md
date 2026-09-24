@@ -45,6 +45,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0485-max-consecutive-ones](https://github.com/Ankitkuma764/DSA/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankitkuma764/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ankitkuma764/DSA/tree/master/0875-koko-eating-bananas) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankitkuma764/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/Ankitkuma764/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankitkuma764/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
@@ -74,6 +75,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ankitkuma764/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankitkuma764/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Newton's Method
 |  |
 | ------- |
