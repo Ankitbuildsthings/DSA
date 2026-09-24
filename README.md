@@ -16,6 +16,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankitkuma764/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ankitkuma764/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankitkuma764/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitkuma764/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankitkuma764/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
