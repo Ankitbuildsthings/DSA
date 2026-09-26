@@ -17,6 +17,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankitkuma764/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ankitkuma764/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Ankitkuma764/DSA/tree/master/0006-zigzag-conversion) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
