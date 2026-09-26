@@ -130,4 +130,20 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ankitkuma764/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Ankitkuma764/DSA/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Ankitkuma764/DSA/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Ankitkuma764/DSA/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Ankitkuma764/DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
