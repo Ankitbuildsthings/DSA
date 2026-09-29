@@ -8,6 +8,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankitkuma764/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ankitkuma764/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ankitkuma764/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ankitkuma764/DSA/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/Ankitkuma764/DSA/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/Ankitkuma764/DSA/tree/master/0217-contains-duplicate) |
@@ -23,6 +24,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0008-string-to-integer-atoi](https://github.com/Ankitkuma764/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Ankitkuma764/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Ankitkuma764/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ankitkuma764/DSA/tree/master/0013-roman-to-integer) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -82,6 +84,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ankitkuma764/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ankitkuma764/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ankitkuma764/DSA/tree/master/0069-sqrtx) |
