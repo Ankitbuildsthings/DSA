@@ -109,6 +109,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0015-3sum](https://github.com/Ankitkuma764/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ankitkuma764/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ankitkuma764/DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ankitkuma764/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ankitkuma764/DSA/tree/master/0283-move-zeroes) |
@@ -188,4 +189,8 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankitkuma764/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ankitkuma764/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
