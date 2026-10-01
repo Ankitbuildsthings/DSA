@@ -28,6 +28,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0013-roman-to-integer](https://github.com/Ankitkuma764/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ankitkuma764/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankitkuma764/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -193,4 +194,12 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankitkuma764/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
