@@ -88,6 +88,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Ankitkuma764/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
@@ -197,6 +198,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankitkuma764/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Ankitkuma764/DSA/tree/master/0023-merge-k-sorted-lists) |
 ## Stack
 |  |
 | ------- |
@@ -206,4 +208,16 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ankitkuma764/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ankitkuma764/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ankitkuma764/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
