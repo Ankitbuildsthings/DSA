@@ -34,6 +34,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Ankitkuma764/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0856-score-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0020-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ankitkuma764/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0022-generate-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ankitkuma764/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0856-score-of-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
