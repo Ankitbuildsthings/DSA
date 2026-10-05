@@ -30,6 +30,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankitkuma764/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitkuma764/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
@@ -119,6 +120,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankitkuma764/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankitkuma764/DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitkuma764/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ankitkuma764/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -238,4 +240,20 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ankitkuma764/DSA/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitkuma764/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitkuma764/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitkuma764/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitkuma764/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
