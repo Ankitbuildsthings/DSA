@@ -101,6 +101,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ankitkuma764/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ankitkuma764/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Ankitkuma764/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ankitkuma764/DSA/tree/master/0069-sqrtx) |
@@ -260,4 +261,8 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitkuma764/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Ankitkuma764/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
