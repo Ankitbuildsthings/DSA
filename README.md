@@ -53,6 +53,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0018-4sum](https://github.com/Ankitkuma764/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankitkuma764/DSA/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Ankitkuma764/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankitkuma764/DSA/tree/master/0035-search-insert-position) |
@@ -123,6 +124,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankitkuma764/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitkuma764/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Ankitkuma764/DSA/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ankitkuma764/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
