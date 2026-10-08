@@ -12,6 +12,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankitkuma764/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ankitkuma764/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Ankitkuma764/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/Ankitkuma764/DSA/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/Ankitkuma764/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -63,6 +64,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankitkuma764/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ankitkuma764/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
@@ -178,6 +180,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ankitkuma764/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 ## Tree
 |  |
@@ -217,6 +220,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankitkuma764/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
 | [0301-remove-invalid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
@@ -276,4 +280,12 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankitkuma764/DSA/tree/master/0029-divide-two-integers) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
