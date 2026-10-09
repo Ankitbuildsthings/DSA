@@ -35,6 +35,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitkuma764/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ankitkuma764/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Ankitkuma764/DSA/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0301-remove-invalid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
