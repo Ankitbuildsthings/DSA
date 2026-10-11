@@ -68,6 +68,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0036-valid-sudoku](https://github.com/Ankitkuma764/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ankitkuma764/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Ankitkuma764/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
@@ -231,6 +232,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0022-generate-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ankitkuma764/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Ankitkuma764/DSA/tree/master/0040-combination-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
