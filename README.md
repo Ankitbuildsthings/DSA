@@ -18,6 +18,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitkuma764/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankitkuma764/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankitkuma764/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankitkuma764/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ankitkuma764/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankitkuma764/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkuma764/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ankitkuma764/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankitkuma764/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankitkuma764/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -295,6 +298,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankitkuma764/DSA/tree/master/0029-divide-two-integers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankitkuma764/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Algorithm X
 |  |
 | ------- |
