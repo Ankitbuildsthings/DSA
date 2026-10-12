@@ -13,6 +13,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ankitkuma764/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Ankitkuma764/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Ankitkuma764/DSA/tree/master/0041-first-missing-positive) |
 | [0133-clone-graph](https://github.com/Ankitkuma764/DSA/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/Ankitkuma764/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +71,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ankitkuma764/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ankitkuma764/DSA/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Ankitkuma764/DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
