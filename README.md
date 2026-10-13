@@ -72,6 +72,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0039-combination-sum](https://github.com/Ankitkuma764/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ankitkuma764/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Ankitkuma764/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Ankitkuma764/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
@@ -144,6 +145,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0027-remove-element](https://github.com/Ankitkuma764/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitkuma764/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ankitkuma764/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ankitkuma764/DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ankitkuma764/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -161,6 +163,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0010-regular-expression-matching](https://github.com/Ankitkuma764/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ankitkuma764/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitkuma764/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -254,6 +257,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ankitkuma764/DSA/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Ankitkuma764/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkuma764/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -316,4 +320,8 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ankitkuma764/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankitkuma764/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
