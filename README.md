@@ -38,6 +38,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ankitkuma764/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ankitkuma764/DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Ankitkuma764/DSA/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0301-remove-invalid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
@@ -123,6 +124,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0012-integer-to-roman](https://github.com/Ankitkuma764/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ankitkuma764/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ankitkuma764/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Ankitkuma764/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ankitkuma764/DSA/tree/master/0069-sqrtx) |
@@ -326,4 +328,8 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankitkuma764/DSA/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Ankitkuma764/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
