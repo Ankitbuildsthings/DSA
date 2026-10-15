@@ -75,6 +75,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0040-combination-sum-ii](https://github.com/Ankitkuma764/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Ankitkuma764/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Ankitkuma764/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Ankitkuma764/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
@@ -169,6 +170,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0022-generate-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankitkuma764/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Ankitkuma764/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitkuma764/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -178,6 +180,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankitkuma764/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Ankitkuma764/DSA/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankitkuma764/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ankitkuma764/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkuma764/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
