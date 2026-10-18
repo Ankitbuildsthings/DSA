@@ -14,6 +14,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0036-valid-sudoku](https://github.com/Ankitkuma764/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Ankitkuma764/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Ankitkuma764/DSA/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Ankitkuma764/DSA/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/Ankitkuma764/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -42,6 +43,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0032-longest-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ankitkuma764/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ankitkuma764/DSA/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Ankitkuma764/DSA/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0301-remove-invalid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
@@ -81,6 +83,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0046-permutations](https://github.com/Ankitkuma764/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ankitkuma764/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Ankitkuma764/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitkuma764/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -206,6 +209,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0016-3sum-closest](https://github.com/Ankitkuma764/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ankitkuma764/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Ankitkuma764/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Ankitkuma764/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Ankitkuma764/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitkuma764/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
