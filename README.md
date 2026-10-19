@@ -84,6 +84,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0047-permutations-ii](https://github.com/Ankitkuma764/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ankitkuma764/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Ankitkuma764/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitkuma764/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -278,6 +279,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0040-combination-sum-ii](https://github.com/Ankitkuma764/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ankitkuma764/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ankitkuma764/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Ankitkuma764/DSA/tree/master/0051-n-queens) |
 | [0301-remove-invalid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
@@ -346,6 +348,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Ankitkuma764/DSA/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
