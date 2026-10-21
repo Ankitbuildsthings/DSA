@@ -87,6 +87,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0049-group-anagrams](https://github.com/Ankitkuma764/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ankitkuma764/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Ankitkuma764/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitkuma764/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankitkuma764/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -238,6 +239,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0036-valid-sudoku](https://github.com/Ankitkuma764/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Ankitkuma764/DSA/tree/master/0054-spiral-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -372,6 +374,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ankitkuma764/DSA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Ankitkuma764/DSA/tree/master/0054-spiral-matrix) |
 ## Binary Indexed Tree
 |  |
 | ------- |
