@@ -89,6 +89,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ankitkuma764/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ankitkuma764/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Ankitkuma764/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitkuma764/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankitkuma764/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -224,6 +225,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0018-4sum](https://github.com/Ankitkuma764/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Ankitkuma764/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ankitkuma764/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ankitkuma764/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Ankitkuma764/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitkuma764/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -412,4 +414,8 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ankitkuma764/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ankitkuma764/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
