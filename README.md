@@ -91,6 +91,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0054-spiral-matrix](https://github.com/Ankitkuma764/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ankitkuma764/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ankitkuma764/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Ankitkuma764/DSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitkuma764/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankitkuma764/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
