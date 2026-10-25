@@ -44,6 +44,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0038-count-and-say](https://github.com/Ankitkuma764/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ankitkuma764/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ankitkuma764/DSA/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Ankitkuma764/DSA/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0301-remove-invalid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
@@ -315,6 +316,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0020-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankitkuma764/DSA/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Ankitkuma764/DSA/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/Ankitkuma764/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkuma764/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
