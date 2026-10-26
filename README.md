@@ -119,6 +119,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankitkuma764/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ankitkuma764/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ankitkuma764/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitkuma764/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ankitkuma764/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ankitkuma764/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Ankitkuma764/DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -254,6 +255,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ankitkuma764/DSA/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Ankitkuma764/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitkuma764/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -265,6 +267,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0101-symmetric-tree](https://github.com/Ankitkuma764/DSA/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/Ankitkuma764/DSA/tree/master/0133-clone-graph) |
 | [1254-number-of-closed-islands](https://github.com/Ankitkuma764/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitkuma764/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -272,6 +275,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0133-clone-graph](https://github.com/Ankitkuma764/DSA/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Ankitkuma764/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitkuma764/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -408,6 +412,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ankitkuma764/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ankitkuma764/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitkuma764/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
