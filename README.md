@@ -45,6 +45,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0043-multiply-strings](https://github.com/Ankitkuma764/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ankitkuma764/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ankitkuma764/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ankitkuma764/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ankitkuma764/DSA/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0301-remove-invalid-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/0301-remove-invalid-parentheses) |
@@ -157,6 +158,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0043-multiply-strings](https://github.com/Ankitkuma764/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ankitkuma764/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ankitkuma764/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ankitkuma764/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ankitkuma764/DSA/tree/master/0189-rotate-array) |
@@ -371,6 +373,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankitkuma764/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Ankitkuma764/DSA/tree/master/0067-add-binary) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankitkuma764/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ankitkuma764/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Algorithm X
@@ -397,6 +400,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | ------- |
 | [0043-multiply-strings](https://github.com/Ankitkuma764/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ankitkuma764/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Ankitkuma764/DSA/tree/master/0067-add-binary) |
 ## Binary Indexed Tree
 |  |
 | ------- |
