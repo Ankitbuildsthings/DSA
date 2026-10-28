@@ -123,6 +123,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitkuma764/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ankitkuma764/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ankitkuma764/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ankitkuma764/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Ankitkuma764/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ankitkuma764/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -212,6 +213,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankitkuma764/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ankitkuma764/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ankitkuma764/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ankitkuma764/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -258,6 +260,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0054-spiral-matrix](https://github.com/Ankitkuma764/DSA/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Ankitkuma764/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitkuma764/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ankitkuma764/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -376,6 +379,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0067-add-binary](https://github.com/Ankitkuma764/DSA/tree/master/0067-add-binary) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankitkuma764/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ankitkuma764/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ankitkuma764/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Algorithm X
 |  |
 | ------- |
