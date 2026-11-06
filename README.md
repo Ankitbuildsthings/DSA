@@ -20,6 +20,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0349-intersection-of-two-arrays](https://github.com/Ankitkuma764/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitkuma764/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
+| [2747-count-zero-request-servers](https://github.com/Ankitkuma764/DSA/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankitkuma764/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankitkuma764/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ankitkuma764/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -66,6 +67,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankitkuma764/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ankitkuma764/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0567-permutation-in-string](https://github.com/Ankitkuma764/DSA/tree/master/0567-permutation-in-string) |
+| [2747-count-zero-request-servers](https://github.com/Ankitkuma764/DSA/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankitkuma764/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Array
 |  |
@@ -123,6 +125,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ankitkuma764/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankitkuma764/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankitkuma764/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Ankitkuma764/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ankitkuma764/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankitkuma764/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankitkuma764/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -272,6 +275,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankitkuma764/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankitkuma764/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankitkuma764/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Ankitkuma764/DSA/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ankitkuma764/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ankitkuma764/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Ankitkuma764/DSA/tree/master/3886-sum-of-sortable-integers) |
