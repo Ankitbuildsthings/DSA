@@ -123,6 +123,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [1539-kth-missing-positive-number](https://github.com/Ankitkuma764/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankitkuma764/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ankitkuma764/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1882-process-tasks-using-servers](https://github.com/Ankitkuma764/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankitkuma764/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankitkuma764/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/Ankitkuma764/DSA/tree/master/2747-count-zero-request-servers) |
@@ -385,6 +386,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ankitkuma764/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [1882-process-tasks-using-servers](https://github.com/Ankitkuma764/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankitkuma764/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankitkuma764/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankitkuma764/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
