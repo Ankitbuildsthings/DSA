@@ -101,6 +101,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0055-jump-game](https://github.com/Ankitkuma764/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ankitkuma764/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ankitkuma764/DSA/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Ankitkuma764/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Ankitkuma764/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ankitkuma764/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitkuma764/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -236,6 +237,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0053-maximum-subarray](https://github.com/Ankitkuma764/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ankitkuma764/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ankitkuma764/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ankitkuma764/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Ankitkuma764/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ankitkuma764/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitkuma764/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -293,6 +295,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0037-sudoku-solver](https://github.com/Ankitkuma764/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ankitkuma764/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ankitkuma764/DSA/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Ankitkuma764/DSA/tree/master/0063-unique-paths-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ankitkuma764/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Ankitkuma764/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitkuma764/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
