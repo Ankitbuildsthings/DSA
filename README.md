@@ -57,6 +57,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkuma764/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ankitkuma764/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ankitkuma764/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ankitkuma764/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ankitkuma764/DSA/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ankitkuma764/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ankitkuma764/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -472,6 +473,7 @@ Data Structures &amp; Algorithms solutions in C++ — LeetCode problems, practic
 | [0054-spiral-matrix](https://github.com/Ankitkuma764/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Ankitkuma764/DSA/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ankitkuma764/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ankitkuma764/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
