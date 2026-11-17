@@ -1,0 +1,54 @@
+
+class Solution {
+public:
+    int minimumChanges(string s, int k) {
+        int n = s.size();
+        const int INF = 1e9;
+
+        vector<vector<int>> cost(n, vector<int>(n, INF));
+
+        for (int l = 0; l < n; l++) {
+            for (int r = l + 1; r < n; r++) {
+                int len = r - l + 1;
+
+                for (int d = 1; d < len; d++) {
+                    if (len % d != 0) continue;
+
+                    int changes = 0;
+                    int groupLen = len / d;
+
+                    for (int x = 0; x < d; x++) {
+                        for (int t = 0; t < groupLen / 2; t++) {
+                            int left = l + x + t * d;
+                            int right = l + x + (groupLen - 1 - t) * d;
+
+                            if (s[left] != s[right]) {
+                                changes++;
+                            }
+                        }
+                    }
+
+                    cost[l][r] = min(cost[l][r], changes);
+                }
+            }
+        }
+
+        vector<vector<int>> dp(k + 1, vector<int>(n + 1, INF));
+
+        dp[0][0] = 0;
+
+        for (int i = 1; i <= k; i++) {
+            for (int j = 2 * i; j <= n; j++) {
+                for (int p = 2 * (i - 1); p <= j - 2; p++) {
+
+                    dp[i][j] = min(
+                        dp[i][j],
+                        dp[i - 1][p] + cost[p][j - 1]
+                    );
+                }
+            }
+        }
+
+        return dp[k][n];
+    }
+};
